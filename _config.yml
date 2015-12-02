@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: J.T. Knox
+email: jtknox91@gmail.com.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm in an uncomfortably small niche of U.S. Marines turned Bay Area software engineers.
+  Learning by doing is by far the best kind of learning.
+  My obsession with regular expressions has reached a point where it 
+  might be easier to just refer to other expressions as 'irregular'.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jtknox91.github.io" # the base hostname & protocol for your site
+github_username:  jtknox91
+
+# Build settings
+markdown: kramdown
