@@ -6,7 +6,7 @@
     display: inline-block;
     width: 32px;
     height: 32px;
-    fill: url('https://raw.githubusercontent.com/JTKnox91/jtknox91.github.io/master/flag-sprites/flags.png') no-repeat;
+    fill: url(#flags) no-repeat;
 }
 
 
