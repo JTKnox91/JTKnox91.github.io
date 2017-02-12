@@ -6,7 +6,7 @@
     display: inline-block;
     width: 32px;
     height: 32px;
-    background: url('https://github.com/JTKnox91/jtknox91.github.io/blob/master/flag-sprites/flags.png?raw=true') no-repeat;
+    background: url('https://raw.githubusercontent.com/JTKnox91/jtknox91.github.io/master/flag-sprites/flags.png') no-repeat;
     fill: white;
 }
 
